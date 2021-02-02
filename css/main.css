@@ -1,0 +1,185 @@
+.hidden
+{
+	display: none;
+}
+
+#container
+{
+	width:1920px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	margin-left: 106px;
+	margin-right: 106px;
+}
+
+.imageContainer
+{
+	position: relative;
+	color: white;
+}
+
+.bottom-left
+{
+	font-family: 'Bebas Neue', cursive;
+	font-size: 90px;
+	letter-spacing: 0.5px;
+	position: absolute;
+  	bottom: 8px;
+  	left: 16px;
+  	margin-left: 106px;
+}
+
+#introduction
+{
+	display: flex;
+	width: 1708px;
+	height: 857px;
+	flex-direction: column;
+}
+
+#introduction p
+{
+	font-family: 'Roboto', sans-serif;
+	font-size: 33px;
+	line-height: 1.6;
+}
+
+#introduction p:first-letter
+{
+	font-family: 'Roboto', sans-serif;
+	font-size: 43px;
+	color: #DFCE2F;
+}
+
+#introduction img
+{
+	width: 1708px;
+	height: 533px;
+}
+
+#a_green_harppon
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+}
+
+#a_green_harpoon p
+{
+	font-family: 'Roboto', sans-serif;
+	font-size: 30px;
+	line-height: 1.6;
+}
+
+#a_green_harpoon p:first-letter
+{
+	font-family: 'Roboto', sans-serif;
+	font-size: 40px;
+	color: #DFCE2F;
+}
+
+#a_green_harpoon img
+{
+	width: 838px;
+	height: 561px;
+	margin-top:105px;
+}
+
+#a_brewers_reserve
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+}
+
+#a_brewers_reserve p
+{
+	font-family: 'Roboto', sans-serif;
+	font-size: 30px;
+	line-height: 1.6;
+	margin-left: 10px;
+}
+
+#a_brewers_reserve p:first-letter
+{
+	font-family: 'Roboto', sans-serif;
+	font-size: 40px;
+	color: #DFCE2F;
+}
+
+#a_brewers_reserve img
+{
+	width: 838px;
+	height: 892px;
+	margin-top: 400px;
+	top margin:1000px;
+}
+
+#the_infected_wolverine_beer
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+}
+
+#the_infected_wolverine_beer p
+{
+	font-family: 'Roboto', sans-serif;
+	font-size: 30px;
+	line-height: 1.6;
+	margin-top:50px;
+	width: 870px;
+	height: 473px;
+}
+
+#the_infected_wolverine_beer p:first-letter
+{
+	font-family: 'Roboto', sans-serif;
+	font-size: 40px;
+	color: #DFCE2F;
+}
+
+#the_infected_wolverine_beer img
+{
+	width: 838px;
+	height: 561px;
+	margin-right: 50px;
+	margin-top:50px;
+}
+
+#conclusions
+{
+	display: flex;
+	flex-direction: column;
+	width: 1708px;
+	height: 857px;
+}
+
+#conclusions p
+{
+	font-family: 'Roboto', sans-serif;
+	font-size: 30px;
+	line-height: 1.6;
+}
+
+#conclusions p:first-letter
+{
+	font-family: 'Roboto', sans-serif;
+	font-size: 40px;
+	color: #DFCE2F;
+}
+
+#conclusions img
+{
+	width: 1708px;
+	height: 533px;
+	margin-top: 70px;
+}
+
+#footer
+{
+	width:1920px;
+	height: 111px;
+	background-color: #000;
+}
